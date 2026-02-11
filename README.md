@@ -2,8 +2,8 @@
 
 ## 🎯 Contexte et Objectif du projet
 Olist est une plateforme brésilienne reliant des milliers de vendeurs à des clients via une marketplace unique. La performance logistique et la satisfaction client sont des enjeux stratégiques :  
-Les **retards de livraison** impactent directement les ** mauvaises notes des avis clients**.  
-Ce projet vise à analyser la **performance logistique** et son impact sur **satisfaction client** sur la marketplace **Olist**, en exploitant un jeu de données e-commerce réel.  
+Les retards de livraison impactent directement les mauvaises notes clients.  
+Ce projet vise à analyser la performance logistique et son impact sur satisfaction client sur la marketplace Olist, en exploitant un jeu de données e-commerce réel.  
 ---
 
 ## 🧠 Analyse descriptive (Data Analyst)
@@ -55,7 +55,7 @@ Elles sont réparties en plusieurs tables reliées par `order_id` et `customer_i
   - Page 4 : Produits
 
 ### 🧾 Étape 4 — Synthèse & recommandations
-- Logistique: Alerte à J+2, Communication proactive + geste commercia 
+- Logistique: Alerte à J+2, Communication proactive + geste commercial 
 - Vendeurs: Score multicritères, Bonus / Malus / accompagnement ciblé
 - Produits: Audit & déréférencement temporaire, Ajustement des délais affichés
 
